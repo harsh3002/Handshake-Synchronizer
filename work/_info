@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/T-Flop synchronizer
+vdual_flop_synchro
+!s110 1711357937
+!i10b 1
+!s100 Zm`^W]^i^J=olaacX^2KF2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQkckIo[HA0iHSzi`nIYJz3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer
+w1711195018
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/dual_synchro.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/dual_synchro.v
+!i122 1
+L0 4 22
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1711357937.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/dual_synchro.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/dual_synchro.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vhandshake_synchro
+!s110 1711361262
+!i10b 1
+!s100 =DKjV=AnR^?i1IoPd6O6Z1
+R0
+IIag5S9gLI3jK1lI1jU]TC2
+R1
+R2
+w1711361256
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/handshake_synchro.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/handshake_synchro.v
+!i122 10
+L0 4 57
+R3
+r1
+!s85 0
+31
+!s108 1711361262.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/handshake_synchro.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/handshake_synchro.v|
+!i113 1
+R4
+R5
+vhandshake_synchro_tb
+!s110 1711361775
+!i10b 1
+!s100 Q0J@MWI_4Dj1Oh8kOB^MN1
+R0
+IR^zoK008flAaY_UgW=fUG1
+R1
+R2
+w1711361773
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/handshake_synchro_tb.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/handshake_synchro_tb.v
+!i122 14
+L0 4 41
+R3
+r1
+!s85 0
+31
+!s108 1711361775.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/handshake_synchro_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/handshake_synchro_tb.v|
+!i113 1
+R4
+R5
+vmux2_1
+!s110 1711357643
+!i10b 1
+!s100 JAcz9TQgWK1TjQIWaF9DQ2
+R0
+I=Wd6ICcef:PFRa?k<TOT51
+R1
+R2
+w1711357641
+8C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v
+FC:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v
+!i122 0
+L0 4 9
+R3
+r1
+!s85 0
+31
+!s108 1711357643.000000
+!s107 C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HARSHITH/Desktop/Verilog/Clock Domain Crossing/Handshake pulse synchronizer/mux2_1.v|
+!i113 1
+R4
+R5
